@@ -1,0 +1,9 @@
+# Ignore all JPG files
+**/*.JPG
+**/*.jpg
+
+# Except those in 'small' and 'thumbnails' directories
+!**/small/*.JPG
+!**/small/*.jpg
+!**/thumbnails/*.JPG
+!**/thumbnails/*.jpg

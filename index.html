@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Titan Picture Library</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <div class="bg-gradient"></div>
+
+    <div class="logo-container">
+      <img src="logo.svg" alt="Titan Logo" class="logo" />
+    </div>
+
+    <header>
+      <div class="search-bar">
+        <span>&#x1F50D;</span>
+        <input type="text" id="searchInput" placeholder="Search photos..." />
+      </div>
+    </header>
+
+    <main>
+      <div class="gallery-container">
+        <div class="gallery" id="gallery"></div>
+        <div class="no-results" id="noResults">No photos found</div>
+      </div>
+    </main>
+
+    <div class="lightbox" id="lightbox">
+      <div class="lightbox-close" id="lightboxClose">&times;</div>
+      <div class="lightbox-nav lightbox-prev" id="lightboxPrev">&lsaquo;</div>
+      <div class="lightbox-nav lightbox-next" id="lightboxNext">&rsaquo;</div>
+
+      <div class="lightbox-content">
+        <img id="lightboxImg" src="" alt="" />
+      </div>
+
+      <div class="info-card" id="infoCard">
+        <h3 id="infoTitle"></h3>
+        <p id="infoAuthor"></p>
+      </div>
+
+      <button class="download-btn" id="downloadBtn">
+        <span>&darr;</span>
+        <span>Download Full Resolution</span>
+      </button>
+      <div class="download-progress" id="downloadProgress">
+        Preparing download...
+      </div>
+    </div>
+
+    <a href="#" class="scroll-to-top" id="scrollToTopBtn" title="Go to top">&uarr;</a>
+
+    <script type="module" src="script.js"></script>
+  </body>
+</html>

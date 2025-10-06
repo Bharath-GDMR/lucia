@@ -1,0 +1,2023 @@
+
+--- File Discovery Test ---
+
+Current directory: D:\titan picture library
+
+--- Testing t1 ---
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08286.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08286.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08287.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08287.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08288.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08288.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08290.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08290.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08291.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08291.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08294.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08294.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08295.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08295.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08296.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08296.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08297.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08297.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08298.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08298.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08301.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08301.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08302.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08302.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08303.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08303.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08304.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08304.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08305.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08305.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08309.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08309.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08310.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08310.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08311.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08311.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08312.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08312.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08315.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08315.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08316.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08316.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08317.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08317.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08318.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08318.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08319.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08319.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08320.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08320.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08321.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08321.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08322.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08322.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08323.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08323.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08325.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08325.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08326.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08326.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08328.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08328.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08329.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08329.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08330.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08330.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08331.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08331.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08333.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08333.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08334.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08334.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08335.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08335.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08336.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08336.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08338.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08338.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08339.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08339.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08340.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08340.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08341.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08341.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08342.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08342.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08343.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08343.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08344.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08344.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08345.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08345.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08346.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08346.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08347.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08347.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08348.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08348.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08349.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08349.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08351.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08351.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08352.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08352.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08353.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08353.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08354.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08354.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08355.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08355.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08356.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08356.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08357.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08357.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08358.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08358.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08359.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08359.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08360.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08360.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08361.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08361.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08362.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08362.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08363.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08363.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08364.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08364.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08368.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08368.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08369.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08369.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08370.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08370.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08371.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08371.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08372.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08372.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08373.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08373.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08374.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08374.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08375.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08375.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08376.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08376.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08377.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08377.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08378.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08378.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08379.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08379.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08380.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08380.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08383.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08383.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08384.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08384.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08385.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08385.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08386.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08386.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08387.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08387.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08388.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08388.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08389.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08389.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08390.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08390.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08391.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08391.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08392.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08392.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08393.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08393.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08394.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08394.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08395.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08395.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08396.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08396.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08397.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08397.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08398.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08398.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08399.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08399.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08400.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08400.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08401.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08401.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08402.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08402.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08403.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08403.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08404.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08404.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08405.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08405.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08406.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08406.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08407.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08407.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08408.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08408.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08409.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08409.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08410.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08410.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08411.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08411.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08412.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08412.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08413.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08413.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08415.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08415.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08416.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08416.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08418.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08418.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08419.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08419.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08420.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08420.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08421.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08421.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08423.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08423.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08424.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08424.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08425.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08425.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08426.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08426.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08429.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08429.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08430.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08430.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08431.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08431.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08432.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08432.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08433.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08433.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08434.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08434.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08435.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08435.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08436.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08436.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08437.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08437.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08438.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08438.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08439.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08439.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08440.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08440.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08441.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08441.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08442.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08442.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08443.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08443.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08444.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08444.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08445.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08445.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08446.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08446.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08447.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08447.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08448.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08448.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08449.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08449.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08450.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08450.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08451.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08451.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08452.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08452.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08453.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08453.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08454.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08454.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08455.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08455.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08456.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08456.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08457.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08457.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08458.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08458.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08459.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08459.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08460.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08460.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08461.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08461.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08462.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08462.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08463.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08463.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08464.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08464.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08465.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08465.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08466.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08466.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08467.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08467.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08468.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08468.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08469.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08469.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08470.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08470.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08471.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08471.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08472.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08472.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08473.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08473.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08474.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08474.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08477.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08477.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08478.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08478.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08479.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08479.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08481.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08481.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08482.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08482.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08483.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08483.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08484.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08484.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08485.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08485.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08486.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08486.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08487.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08487.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08488.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08488.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08489.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08489.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08490.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08490.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08493.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08493.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08495.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08495.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08496.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08496.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08498.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08498.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08499.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08499.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08500.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08500.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08501.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08501.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08502.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08502.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08503.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08503.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08504.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08504.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08505.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08505.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08506.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08506.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08507.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08507.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08508.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08508.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08509.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08509.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08510.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08510.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08511.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08511.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08512.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08512.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08513.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08513.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08514.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08514.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08515.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08515.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08516.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08516.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08518.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08518.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08519.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08519.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08286.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08286.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08287.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08287.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08288.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08288.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08290.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08290.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08291.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08291.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08294.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08294.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08295.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08295.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08296.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08296.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08297.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08297.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08298.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08298.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08301.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08301.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08302.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08302.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08303.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08303.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08304.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08304.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08305.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08305.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08309.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08309.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08310.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08310.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08311.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08311.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08312.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08312.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08315.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08315.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08316.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08316.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08317.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08317.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08318.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08318.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08319.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08319.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08320.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08320.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08321.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08321.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08322.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08322.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08323.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08323.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08325.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08325.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08326.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08326.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08328.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08328.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08329.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08329.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08330.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08330.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08331.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08331.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08333.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08333.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08334.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08334.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08335.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08335.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08336.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08336.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08338.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08338.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08339.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08339.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08340.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08340.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08341.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08341.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08342.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08342.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08343.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08343.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08344.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08344.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08345.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08345.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08346.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08346.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08347.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08347.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08348.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08348.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08349.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08349.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08351.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08351.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08352.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08352.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08353.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08353.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08354.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08354.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08355.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08355.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08356.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08356.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08357.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08357.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08358.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08358.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08359.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08359.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08360.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08360.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08361.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08361.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08362.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08362.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08363.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08363.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08364.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08364.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08368.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08368.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08369.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08369.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08370.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08370.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08371.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08371.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08372.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08372.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08373.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08373.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08374.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08374.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08375.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08375.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08376.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08376.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08377.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08377.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08378.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08378.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08379.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08379.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08380.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08380.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08383.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08383.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08384.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08384.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08385.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08385.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08386.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08386.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08387.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08387.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08388.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08388.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08389.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08389.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08390.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08390.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08391.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08391.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08392.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08392.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08393.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08393.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08394.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08394.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08395.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08395.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08396.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08396.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08397.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08397.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08398.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08398.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08399.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08399.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08400.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08400.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08401.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08401.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08402.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08402.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08403.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08403.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08404.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08404.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08405.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08405.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08406.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08406.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08407.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08407.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08408.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08408.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08409.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08409.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08410.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08410.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08411.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08411.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08412.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08412.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08413.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08413.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08415.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08415.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08416.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08416.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08418.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08418.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08419.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08419.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08420.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08420.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08421.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08421.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08423.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08423.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08424.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08424.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08425.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08425.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08426.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08426.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08429.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08429.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08430.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08430.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08431.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08431.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08432.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08432.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08433.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08433.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08434.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08434.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08435.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08435.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08436.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08436.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08437.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08437.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08438.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08438.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08439.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08439.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08440.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08440.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08441.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08441.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08442.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08442.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08443.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08443.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08444.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08444.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08445.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08445.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08446.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08446.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08447.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08447.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08448.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08448.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08449.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08449.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08450.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08450.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08451.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08451.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08452.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08452.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08453.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08453.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08454.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08454.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08455.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08455.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08456.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08456.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08457.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08457.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08458.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08458.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08459.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08459.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08460.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08460.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08461.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08461.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08462.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08462.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08463.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08463.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08464.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08464.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08465.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08465.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08466.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08466.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08467.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08467.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08468.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08468.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08469.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08469.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08470.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08470.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08471.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08471.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08472.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08472.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08473.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08473.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08474.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08474.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08477.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08477.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08478.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08478.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08479.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08479.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08481.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08481.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08482.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08482.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08483.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08483.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08484.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08484.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08485.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08485.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08486.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08486.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08487.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08487.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08488.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08488.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08489.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08489.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08490.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08490.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08493.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08493.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08495.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08495.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08496.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08496.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08498.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08498.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08499.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08499.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08500.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08500.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08501.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08501.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08502.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08502.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08503.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08503.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08504.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08504.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08505.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08505.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08506.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08506.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08507.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08507.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08508.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08508.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08509.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08509.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08510.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08510.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08511.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08511.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08512.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08512.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08513.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08513.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08514.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08514.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08515.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08515.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08516.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08516.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08518.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08518.JPG
+
+D:\titan picture library>(echo Found in t1: D:\titan picture library\t1\Titan\DSC08519.JPG ) 
+Found in t1: D:\titan picture library\t1\Titan\DSC08519.JPG
+
+--- Testing t2 ---
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02155.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02155.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02160.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02160.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02163.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02163.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02164.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02164.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02165.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02165.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02167.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02167.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02168.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02168.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02169.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02169.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02171.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02171.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02172.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02172.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02173.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02173.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02174.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02174.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02175.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02175.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02176.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02176.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02177.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02177.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02178.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02178.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02179.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02179.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02180.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02180.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02181.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02181.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02183.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02183.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02184.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02184.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02185.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02185.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02186.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02186.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02188.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02188.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02189.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02189.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02192.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02192.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02193.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02193.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02194.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02194.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02195.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02195.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02196.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02196.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02197.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02197.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02198.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02198.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02199.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02199.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02200.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02200.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02201.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02201.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02204.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02204.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02205.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02205.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02206.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02206.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02207.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02207.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02208.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02208.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02209.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02209.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02210.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02210.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02211.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02211.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02212.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02212.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02213.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02213.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02214.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02214.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02215.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02215.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02216.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02216.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02218.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02218.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02219.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02219.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02222.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02222.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02223.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02223.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02224.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02224.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02225.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02225.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02227.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02227.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02228.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02228.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02230.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02230.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02231.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02231.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02233.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02233.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02234.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02234.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02235.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02235.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02236.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02236.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02237.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02237.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02238.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02238.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02240.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02240.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02241.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02241.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02242.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02242.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02243.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02243.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02244.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02244.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02245.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02245.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02246.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02246.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02247.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02247.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02248.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02248.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02249.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02249.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02250.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02250.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02251.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02251.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02253.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02253.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02255.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02255.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02256.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02256.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02257.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02257.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02259.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02259.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02262.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02262.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02263.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02263.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02266.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02266.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02268.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02268.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02270.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02270.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02271.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02271.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02272.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02272.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02273.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02273.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02274.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02274.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02275.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02275.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02276.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02276.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02277.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02277.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02278.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02278.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02279.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02279.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02280.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02280.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02281.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02281.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02282.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02282.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02284.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02284.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02285.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02285.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02286.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02286.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02155.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02155.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02160.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02160.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02163.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02163.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02164.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02164.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02165.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02165.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02167.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02167.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02168.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02168.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02169.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02169.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02171.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02171.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02172.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02172.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02173.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02173.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02174.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02174.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02175.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02175.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02176.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02176.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02177.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02177.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02178.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02178.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02179.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02179.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02180.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02180.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02181.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02181.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02183.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02183.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02184.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02184.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02185.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02185.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02186.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02186.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02188.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02188.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02189.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02189.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02192.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02192.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02193.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02193.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02194.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02194.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02195.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02195.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02196.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02196.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02197.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02197.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02198.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02198.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02199.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02199.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02200.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02200.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02201.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02201.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02204.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02204.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02205.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02205.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02206.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02206.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02207.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02207.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02208.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02208.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02209.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02209.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02210.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02210.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02211.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02211.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02212.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02212.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02213.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02213.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02214.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02214.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02215.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02215.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02216.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02216.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02218.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02218.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02219.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02219.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02222.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02222.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02223.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02223.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02224.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02224.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02225.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02225.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02227.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02227.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02228.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02228.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02230.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02230.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02231.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02231.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02233.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02233.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02234.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02234.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02235.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02235.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02236.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02236.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02237.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02237.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02238.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02238.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02240.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02240.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02241.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02241.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02242.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02242.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02243.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02243.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02244.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02244.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02245.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02245.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02246.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02246.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02247.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02247.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02248.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02248.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02249.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02249.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02250.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02250.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02251.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02251.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02253.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02253.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02255.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02255.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02256.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02256.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02257.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02257.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02259.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02259.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02262.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02262.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02263.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02263.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02266.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02266.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02268.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02268.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02270.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02270.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02271.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02271.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02272.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02272.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02273.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02273.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02274.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02274.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02275.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02275.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02276.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02276.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02277.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02277.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02278.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02278.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02279.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02279.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02280.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02280.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02281.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02281.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02282.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02282.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02284.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02284.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02285.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02285.JPG
+
+D:\titan picture library>(echo Found in t2: D:\titan picture library\t2\camera 1\CMC02286.JPG ) 
+Found in t2: D:\titan picture library\t2\camera 1\CMC02286.JPG
+
+--- Testing t3 ---
+
+D:\titan picture library>(echo Found in t3: D:\titan picture library\t3\camera 1\CMC02105.JPG ) 
+Found in t3: D:\titan picture library\t3\camera 1\CMC02105.JPG
+
+D:\titan picture library>(echo Found in t3: D:\titan picture library\t3\camera 1\CMC02115.JPG ) 
+Found in t3: D:\titan picture library\t3\camera 1\CMC02115.JPG
+
+D:\titan picture library>(echo Found in t3: D:\titan picture library\t3\camera 1\CMC02120.JPG ) 
+Found in t3: D:\titan picture library\t3\camera 1\CMC02120.JPG
+
+D:\titan picture library>(echo Found in t3: D:\titan picture library\t3\camera 1\CMC02122.JPG ) 
+Found in t3: D:\titan picture library\t3\camera 1\CMC02122.JPG
+
+D:\titan picture library>(echo Found in t3: D:\titan picture library\t3\camera 1\CMC02124.JPG ) 
+Found in t3: D:\titan picture library\t3\camera 1\CMC02124.JPG
+
+D:\titan picture library>(echo Found in t3: D:\titan picture library\t3\camera 1\CMC02125.JPG ) 
+Found in t3: D:\titan picture library\t3\camera 1\CMC02125.JPG
+
+D:\titan picture library>(echo Found in t3: D:\titan picture library\t3\camera 1\CMC02126.JPG ) 
+Found in t3: D:\titan picture library\t3\camera 1\CMC02126.JPG
+
+D:\titan picture library>(echo Found in t3: D:\titan picture library\t3\camera 1\CMC02127.JPG ) 
+Found in t3: D:\titan picture library\t3\camera 1\CMC02127.JPG
+
+D:\titan picture library>(echo Found in t3: D:\titan picture library\t3\camera 1\CMC02128.JPG ) 
+Found in t3: D:\titan picture library\t3\camera 1\CMC02128.JPG
+
+D:\titan picture library>(echo Found in t3: D:\titan picture library\t3\camera 1\CMC02129.JPG ) 
+Found in t3: D:\titan picture library\t3\camera 1\CMC02129.JPG
+
+D:\titan picture library>(echo Found in t3: D:\titan picture library\t3\camera 1\CMC02130.JPG ) 
+Found in t3: D:\titan picture library\t3\camera 1\CMC02130.JPG
+
+D:\titan picture library>(echo Found in t3: D:\titan picture library\t3\camera 1\CMC02131.JPG ) 
+Found in t3: D:\titan picture library\t3\camera 1\CMC02131.JPG
+
+D:\titan picture library>(echo Found in t3: D:\titan picture library\t3\camera 1\CMC02132.JPG ) 
+Found in t3: D:\titan picture library\t3\camera 1\CMC02132.JPG
+
+D:\titan picture library>(echo Found in t3: D:\titan picture library\t3\camera 1\CMC02133.JPG ) 
+Found in t3: D:\titan picture library\t3\camera 1\CMC02133.JPG
+
+D:\titan picture library>(echo Found in t3: D:\titan picture library\t3\camera 1\CMC02134.JPG ) 
+Found in t3: D:\titan picture library\t3\camera 1\CMC02134.JPG
+
+D:\titan picture library>(echo Found in t3: D:\titan picture library\t3\camera 1\CMC02135.JPG ) 
+Found in t3: D:\titan picture library\t3\camera 1\CMC02135.JPG
+
+D:\titan picture library>(echo Found in t3: D:\titan picture library\t3\camera 1\CMC02136.JPG ) 
+Found in t3: D:\titan picture library\t3\camera 1\CMC02136.JPG
+
+D:\titan picture library>(echo Found in t3: D:\titan picture library\t3\camera 1\CMC02137.JPG ) 
+Found in t3: D:\titan picture library\t3\camera 1\CMC02137.JPG
+
+D:\titan picture library>(echo Found in t3: D:\titan picture library\t3\camera 1\CMC02140.JPG ) 
+Found in t3: D:\titan picture library\t3\camera 1\CMC02140.JPG
+
+D:\titan picture library>(echo Found in t3: D:\titan picture library\t3\camera 1\CMC02141.JPG ) 
+Found in t3: D:\titan picture library\t3\camera 1\CMC02141.JPG
+
+D:\titan picture library>(echo Found in t3: D:\titan picture library\t3\camera 1\CMC02142.JPG ) 
+Found in t3: D:\titan picture library\t3\camera 1\CMC02142.JPG
+
+D:\titan picture library>(echo Found in t3: D:\titan picture library\t3\camera 1\CMC02143.JPG ) 
+Found in t3: D:\titan picture library\t3\camera 1\CMC02143.JPG
+
+D:\titan picture library>(echo Found in t3: D:\titan picture library\t3\camera 1\CMC02144.JPG ) 
+Found in t3: D:\titan picture library\t3\camera 1\CMC02144.JPG
+
+D:\titan picture library>(echo Found in t3: D:\titan picture library\t3\camera 1\CMC02145.JPG ) 
+Found in t3: D:\titan picture library\t3\camera 1\CMC02145.JPG
+
+D:\titan picture library>(echo Found in t3: D:\titan picture library\t3\camera 1\CMC02147.JPG ) 
+Found in t3: D:\titan picture library\t3\camera 1\CMC02147.JPG
+
+D:\titan picture library>(echo Found in t3: D:\titan picture library\t3\camera 1\CMC02148.JPG ) 
+Found in t3: D:\titan picture library\t3\camera 1\CMC02148.JPG
+
+D:\titan picture library>(echo Found in t3: D:\titan picture library\t3\camera 1\CMC02154.JPG ) 
+Found in t3: D:\titan picture library\t3\camera 1\CMC02154.JPG
+
+D:\titan picture library>(echo Found in t3: D:\titan picture library\t3\camera 1\CMC02157.JPG ) 
+Found in t3: D:\titan picture library\t3\camera 1\CMC02157.JPG
+
+D:\titan picture library>(echo Found in t3: D:\titan picture library\t3\camera 1\CMC02158.JPG ) 
+Found in t3: D:\titan picture library\t3\camera 1\CMC02158.JPG
+
+D:\titan picture library>(echo Found in t3: D:\titan picture library\t3\camera 1\CMC02159.JPG ) 
+Found in t3: D:\titan picture library\t3\camera 1\CMC02159.JPG
+
+D:\titan picture library>(echo Found in t3: D:\titan picture library\t3\camera 1\CMC02161.JPG ) 
+Found in t3: D:\titan picture library\t3\camera 1\CMC02161.JPG
+
+D:\titan picture library>(echo Found in t3: D:\titan picture library\t3\camera 1\CMC02162.JPG ) 
+Found in t3: D:\titan picture library\t3\camera 1\CMC02162.JPG
+
+D:\titan picture library>(echo Found in t3: D:\titan picture library\t3\camera 1\CMC02166.JPG ) 
+Found in t3: D:\titan picture library\t3\camera 1\CMC02166.JPG
+
+D:\titan picture library>(echo Found in t3: D:\titan picture library\t3\camera 1\CMC02105.JPG ) 
+Found in t3: D:\titan picture library\t3\camera 1\CMC02105.JPG
+
+D:\titan picture library>(echo Found in t3: D:\titan picture library\t3\camera 1\CMC02115.JPG ) 
+Found in t3: D:\titan picture library\t3\camera 1\CMC02115.JPG
+
+D:\titan picture library>(echo Found in t3: D:\titan picture library\t3\camera 1\CMC02120.JPG ) 
+Found in t3: D:\titan picture library\t3\camera 1\CMC02120.JPG
+
+D:\titan picture library>(echo Found in t3: D:\titan picture library\t3\camera 1\CMC02122.JPG ) 
+Found in t3: D:\titan picture library\t3\camera 1\CMC02122.JPG
+
+D:\titan picture library>(echo Found in t3: D:\titan picture library\t3\camera 1\CMC02124.JPG ) 
+Found in t3: D:\titan picture library\t3\camera 1\CMC02124.JPG
+
+D:\titan picture library>(echo Found in t3: D:\titan picture library\t3\camera 1\CMC02125.JPG ) 
+Found in t3: D:\titan picture library\t3\camera 1\CMC02125.JPG
+
+D:\titan picture library>(echo Found in t3: D:\titan picture library\t3\camera 1\CMC02126.JPG ) 
+Found in t3: D:\titan picture library\t3\camera 1\CMC02126.JPG
+
+D:\titan picture library>(echo Found in t3: D:\titan picture library\t3\camera 1\CMC02127.JPG ) 
+Found in t3: D:\titan picture library\t3\camera 1\CMC02127.JPG
+
+D:\titan picture library>(echo Found in t3: D:\titan picture library\t3\camera 1\CMC02128.JPG ) 
+Found in t3: D:\titan picture library\t3\camera 1\CMC02128.JPG
+
+D:\titan picture library>(echo Found in t3: D:\titan picture library\t3\camera 1\CMC02129.JPG ) 
+Found in t3: D:\titan picture library\t3\camera 1\CMC02129.JPG
+
+D:\titan picture library>(echo Found in t3: D:\titan picture library\t3\camera 1\CMC02130.JPG ) 
+Found in t3: D:\titan picture library\t3\camera 1\CMC02130.JPG
+
+D:\titan picture library>(echo Found in t3: D:\titan picture library\t3\camera 1\CMC02131.JPG ) 
+Found in t3: D:\titan picture library\t3\camera 1\CMC02131.JPG
+
+D:\titan picture library>(echo Found in t3: D:\titan picture library\t3\camera 1\CMC02132.JPG ) 
+Found in t3: D:\titan picture library\t3\camera 1\CMC02132.JPG
+
+D:\titan picture library>(echo Found in t3: D:\titan picture library\t3\camera 1\CMC02133.JPG ) 
+Found in t3: D:\titan picture library\t3\camera 1\CMC02133.JPG
+
+D:\titan picture library>(echo Found in t3: D:\titan picture library\t3\camera 1\CMC02134.JPG ) 
+Found in t3: D:\titan picture library\t3\camera 1\CMC02134.JPG
+
+D:\titan picture library>(echo Found in t3: D:\titan picture library\t3\camera 1\CMC02135.JPG ) 
+Found in t3: D:\titan picture library\t3\camera 1\CMC02135.JPG
+
+D:\titan picture library>(echo Found in t3: D:\titan picture library\t3\camera 1\CMC02136.JPG ) 
+Found in t3: D:\titan picture library\t3\camera 1\CMC02136.JPG
+
+D:\titan picture library>(echo Found in t3: D:\titan picture library\t3\camera 1\CMC02137.JPG ) 
+Found in t3: D:\titan picture library\t3\camera 1\CMC02137.JPG
+
+D:\titan picture library>(echo Found in t3: D:\titan picture library\t3\camera 1\CMC02140.JPG ) 
+Found in t3: D:\titan picture library\t3\camera 1\CMC02140.JPG
+
+D:\titan picture library>(echo Found in t3: D:\titan picture library\t3\camera 1\CMC02141.JPG ) 
+Found in t3: D:\titan picture library\t3\camera 1\CMC02141.JPG
+
+D:\titan picture library>(echo Found in t3: D:\titan picture library\t3\camera 1\CMC02142.JPG ) 
+Found in t3: D:\titan picture library\t3\camera 1\CMC02142.JPG
+
+D:\titan picture library>(echo Found in t3: D:\titan picture library\t3\camera 1\CMC02143.JPG ) 
+Found in t3: D:\titan picture library\t3\camera 1\CMC02143.JPG
+
+D:\titan picture library>(echo Found in t3: D:\titan picture library\t3\camera 1\CMC02144.JPG ) 
+Found in t3: D:\titan picture library\t3\camera 1\CMC02144.JPG
+
+D:\titan picture library>(echo Found in t3: D:\titan picture library\t3\camera 1\CMC02145.JPG ) 
+Found in t3: D:\titan picture library\t3\camera 1\CMC02145.JPG
+
+D:\titan picture library>(echo Found in t3: D:\titan picture library\t3\camera 1\CMC02147.JPG ) 
+Found in t3: D:\titan picture library\t3\camera 1\CMC02147.JPG
+
+D:\titan picture library>(echo Found in t3: D:\titan picture library\t3\camera 1\CMC02148.JPG ) 
+Found in t3: D:\titan picture library\t3\camera 1\CMC02148.JPG
+
+D:\titan picture library>(echo Found in t3: D:\titan picture library\t3\camera 1\CMC02154.JPG ) 
+Found in t3: D:\titan picture library\t3\camera 1\CMC02154.JPG
+
+D:\titan picture library>(echo Found in t3: D:\titan picture library\t3\camera 1\CMC02157.JPG ) 
+Found in t3: D:\titan picture library\t3\camera 1\CMC02157.JPG
+
+D:\titan picture library>(echo Found in t3: D:\titan picture library\t3\camera 1\CMC02158.JPG ) 
+Found in t3: D:\titan picture library\t3\camera 1\CMC02158.JPG
+
+D:\titan picture library>(echo Found in t3: D:\titan picture library\t3\camera 1\CMC02159.JPG ) 
+Found in t3: D:\titan picture library\t3\camera 1\CMC02159.JPG
+
+D:\titan picture library>(echo Found in t3: D:\titan picture library\t3\camera 1\CMC02161.JPG ) 
+Found in t3: D:\titan picture library\t3\camera 1\CMC02161.JPG
+
+D:\titan picture library>(echo Found in t3: D:\titan picture library\t3\camera 1\CMC02162.JPG ) 
+Found in t3: D:\titan picture library\t3\camera 1\CMC02162.JPG
+
+D:\titan picture library>(echo Found in t3: D:\titan picture library\t3\camera 1\CMC02166.JPG ) 
+Found in t3: D:\titan picture library\t3\camera 1\CMC02166.JPG
+
+--- Test Complete ---
+

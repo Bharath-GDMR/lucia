@@ -1,0 +1,11 @@
+
+This script will create 'small' and 'thumbnail' versions of all images.
+This version checks for both .jpg and .JPG file extensions.
+
+Current directory is: D:\titan picture library
+
+
+=================================
+     Image processing complete
+=================================
+
