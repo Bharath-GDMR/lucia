@@ -3,6 +3,7 @@ import { state } from './state.js';
 export function openLightbox(index) {
     state.currentIndex = index;
     const photo = state.filteredPhotos[index];
+    state.currentImage = photo; // Set the current image in the state
     const lightbox = document.getElementById("lightbox");
     const img = document.getElementById("lightboxImg");
 

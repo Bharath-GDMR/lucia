@@ -12,8 +12,9 @@ export async function downloadImage() {
     progress.classList.add("active");
 
     try {
-        const response = await fetch(photo.full);
-        const blob = await response.blob();
+    const imageUrl = state.currentImage.small;
+    const response = await fetch(imageUrl);
+    const blob = await response.blob();
         const url = window.URL.createObjectURL(blob);
         const a = document.createElement("a");
         a.href = url;
