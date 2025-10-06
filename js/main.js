@@ -3,6 +3,7 @@ import { initGallery } from './gallery.js';
 import { initEventListeners } from './events.js';
 import { initScrollToTop } from './scrollToTop.js';
 import { initGradientScroll } from './gradientScroll.js';
+import { initJumpNavigator } from './jumpNavigator.js';
 
 export async function startApp() {
     try {
@@ -16,6 +17,7 @@ export async function startApp() {
         initEventListeners();
         initScrollToTop();
         initGradientScroll();
+        initJumpNavigator();
     } catch (error) {
         console.error("Application failed to start:", error);
         const gallery = document.getElementById("gallery");

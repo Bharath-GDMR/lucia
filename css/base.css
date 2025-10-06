@@ -1,0 +1,27 @@
+* {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
+      :root {
+        --bg-dark: #000000;
+        --bg-card: #1a1a1a;
+        --accent: #EB2627;
+        --accent-glow: rgba(235, 38, 39, 0.3);
+        --text-primary: #ffffff;
+        --text-secondary: #a0a0a0;
+      }
+
+      html {
+        scroll-behavior: smooth;
+      }
+
+      body {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+          Oxygen, Ubuntu, Cantarell, sans-serif;
+        background: var(--bg-dark);
+        color: var(--text-primary);
+        overflow-x: hidden;
+        min-height: 100vh;
+      }

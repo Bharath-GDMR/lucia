@@ -9,6 +9,7 @@ export function initGallery() {
     state.filteredPhotos.forEach((photo, index) => {
         const card = document.createElement("div");
         card.className = "photo-card loading";
+        card.dataset.index = index;
         card.innerHTML = `
             <img src="${photo.thumb}" alt="${photo.title}" loading="lazy">
             <div class="photo-info">

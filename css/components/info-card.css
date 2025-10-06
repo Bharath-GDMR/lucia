@@ -1,0 +1,22 @@
+.info-card {
+        position: absolute;
+        bottom: 2rem;
+        left: 2rem;
+        padding: 1.5rem;
+        background: rgba(26, 26, 26, 0.9);
+        backdrop-filter: blur(20px);
+        border: 1px solid rgba(255, 255, 255, 0.1);
+        border-radius: 15px;
+        max-width: 400px;
+      }
+
+      .info-card h3 {
+        font-size: 1.3rem;
+        margin-bottom: 0.5rem;
+        color: var(--accent);
+      }
+
+      .info-card p {
+        color: var(--text-secondary);
+        font-size: 0.95rem;
+      }
